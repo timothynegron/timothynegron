@@ -1,2 +1,2 @@
 # timothynegron
-function repeat() {eat(); code(); sleep(); repeat();}
+function repeat() { eat(); code(); sleep(); repeat(); }
