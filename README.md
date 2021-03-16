@@ -1,2 +1,2 @@
 # timothynegron
-function repeat() { eat(); code(); sleep(); repeat(); }
+I want to be the best programmer that I can be.
