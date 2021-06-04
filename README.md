@@ -1,3 +1,2 @@
-# I am a Web Developer
-* I love to write code ... 🥰 
+# Web Developer
 * Feel free to invite me to collab on a project - negrt@farmingdale.edu ... 🤝
