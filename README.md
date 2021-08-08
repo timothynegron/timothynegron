@@ -1,8 +1,7 @@
-Computer Programming graduate and U.S. Army Veteran who wants to make the world a better place by build computer applications.
+### Computer Programming graduate and U.S. Army Veteran who wants to make the world a better place by build computer applications.
 <!-- Socials -->
   <h2>Socials</h2>
   <p align="left">
-  <a href="mailto:negrt@farmingdale.edu"><img src="https://img.icons8.com/doodle/48/000000/gmail-new.p" title="gmail">
   <a href="https://www.linkedin.com/in/timothy-negron/"><img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" title="linkedin">
   <a href="https://github.com/timothynegron"><img src="https://img.icons8.com/doodle/96/000000/github--v1.png" title="github">
 </p>
