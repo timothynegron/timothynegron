@@ -1,4 +1,4 @@
-### Computer Programming graduate and U.S. Army Veteran who strives to help make the world a better place.
+### Computer Programming hobbyist and U.S. Army Veteran who strives to help make the world a better place.
 <!-- Socials -->
   <h2>Socials</h2>
   <p align="left">
