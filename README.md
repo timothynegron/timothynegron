@@ -1,4 +1,4 @@
-### Computer Programming hobbyist and U.S. Army Veteran who strives to help make the world a better place.
+### Hobbyist Programmer.
 <!-- Socials -->
   <h2>Socials</h2>
   <p align="left">
