@@ -1,4 +1,4 @@
-### Hobbyist Programmer.
+### programming is fun.
 <!-- Socials -->
   <h2>Socials</h2>
   <p align="left">
