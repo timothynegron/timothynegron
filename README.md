@@ -1,4 +1,4 @@
-### Coding, typing, learning, building things is equal to fun
+### Coding, typing, learning, and building things is equal to fun
 <!-- Socials -->
   <h2>Socials</h2>
   <p align="left">
