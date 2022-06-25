@@ -1,4 +1,4 @@
-### Coding, typing, learning, and building things is equal to fun
+### I love coding, learning, and helping people
 <!-- Socials -->
   <h2>Socials</h2>
   <p align="left">
